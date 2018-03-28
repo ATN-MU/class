@@ -20,10 +20,18 @@ Android Activity
 ![](https://i.imgur.com/xYjRjVM.png)
 
 查看 **Logcat**
+
    ` 03-28 09:34:23.149 5415-5415/com.example.administrator.activity E/MainActivity: onStart() is invoked！`
+   
    ` 03-28 09:34:23.151 5415-5415/com.example.administrator.activity E/MainActivity: onResume() is invoked！`
+   
    ` 03-28 09:34:26.264 5415-5415/com.example.administrator.activity E/MainActivity: onPause() is invoked！`
+   
    ` 03-28 09:34:30.170 5415-5415/com.example.administrator.activity E/MainActivity: onRestart() is invoked！`
+   
    ` 03-28 09:34:30.170 5415-5415/com.example.administrator.activity E/MainActivity: onStart() is invoked！`
+   
     `03-28 09:34:30.171 5415-5415/com.example.administrator.activity E/MainActivity: onResume() is invoked！`
+    
     `03-28 09:35:10.094 5415-5415/com.example.administrator.activity E/MainActivity: onPause() is invoked！`
+    

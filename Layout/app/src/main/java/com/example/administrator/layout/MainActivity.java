@@ -9,10 +9,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 //        linearLayout
-//        setContentView(R.layout.first_linearlayout);
+//         setContentView(R.layout.first_linearlayout);
 //        relativeYayout
-//        setContentView(R.layout.relativelayout);
+        setContentView(R.layout.relativelayout);
 //        tableYayout
-        setContentView(R.layout.tablelayout);
+//        setContentView(R.layout.tablelayout);
     }
 }

@@ -36,6 +36,8 @@ Preferenceattributes：
 
 ![1](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/1.png)
 
+![1](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/1.png)
+
 ![2](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/2.png)
 
 ![3](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/3.png)

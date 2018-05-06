@@ -1,5 +1,5 @@
 ---
-typora-root-url: capture
+typora-root-url: https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture
 ---
 
 # 使用PrefereceFragment实现设置页面
@@ -33,6 +33,22 @@ Preferenceattributes：
 ```
 
 ## 二、运行图片
+
+![1](/1.png)
+
+![2](/2.png)
+
+![3](/3.png)
+
+![4](/4.png)
+
+![5](/5.png)
+
+![6](/6.png)
+
+![7](/7.png)
+
+![8](/8.jpg)
 
 ### 参考文献
 

@@ -1,5 +1,5 @@
 ---
-typora-root-url: https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture
+typora-root-url: https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture
 ---
 
 # 使用PrefereceFragment实现设置页面

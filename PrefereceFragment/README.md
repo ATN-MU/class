@@ -34,21 +34,21 @@ Preferenceattributes：
 
 ## 二、运行图片
 
-![1](/1.png)
+![1](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/1.png)
 
-![2](/2.png)
+![2](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/2.png)
 
-![3](/3.png)
+![3](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/3.png)
 
-![4](/4.png)
+![4](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/4.png)
 
-![5](/5.png)
+![5](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/5.png)
 
-![6](/6.png)
+![6](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/6.png)
 
-![7](/7.png)
+![7](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/7.png)
 
-![8](/8.jpg)
+![8](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/8.jpg)
 
 ### 参考文献
 

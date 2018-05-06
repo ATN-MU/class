@@ -34,7 +34,7 @@ Preferenceattributes：
 
 ## 二、运行图片
 
-![1](../1.png)
+![1](././1.png)
 
 ![2](/2.png)
 

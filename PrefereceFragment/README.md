@@ -34,24 +34,6 @@ Preferenceattributes：
 
 ## 二、运行图片
 
-![1](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/1.png)
-
-![1](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/1.png)
-
-![2](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/2.png)
-
-![3](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/3.png)
-
-![4](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/4.png)
-
-![5](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/5.png)
-
-![6](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/6.png)
-
-![7](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/7.png)
-
-![8](https://github.com/ATN-MU/class/tree/master/PrefereceFragment/capture/8.jpg)
-
 ### 参考文献
 
 p<https://developer.android.google.cn/guide/topics/ui/settings.html>

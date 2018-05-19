@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 ---
 
 ---
 
+=======
+>>>>>>> 711f5e4cd2af615c726c09358e036957c2796d9e
 # 使用PrefereceFragment实现设置页面
 
 ## 一、设置项说明
@@ -35,6 +38,7 @@ Preferenceattributes：
 ## 二、运行图片
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![1](E:\Android\AndroidStudioProjects\PrefereceFragment\capture\1.png)
 
 ![2](E:\Android\AndroidStudioProjects\PrefereceFragment\capture\2.png)
@@ -53,6 +57,24 @@ Preferenceattributes：
 
 =======
 >>>>>>> bfacf55623bc59717dc8f9415866a79b08686cfb
+=======
+![1](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/1.png)
+
+![2](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/2.png)
+
+![3](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/3.png)
+
+![4](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/4.png)
+
+![5](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/5.png)
+
+![6](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/6.png)
+
+![7](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/7.png)
+
+![8](https://github.com/ATN-MU/class/blob/master/PrefereceFragment/capture/8.jpg)
+
+>>>>>>> 711f5e4cd2af615c726c09358e036957c2796d9e
 ### 参考文献
 
 p<https://developer.android.google.cn/guide/topics/ui/settings.html>

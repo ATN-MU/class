@@ -34,6 +34,7 @@ Preferenceattributes：
 
 ## 二、运行图片
 
+<<<<<<< HEAD
 ![1](E:\Android\AndroidStudioProjects\PrefereceFragment\capture\1.png)
 
 ![2](E:\Android\AndroidStudioProjects\PrefereceFragment\capture\2.png)
@@ -50,6 +51,8 @@ Preferenceattributes：
 
 ![8](E:\Android\AndroidStudioProjects\PrefereceFragment\capture\8.jpg)
 
+=======
+>>>>>>> bfacf55623bc59717dc8f9415866a79b08686cfb
 ### 参考文献
 
 p<https://developer.android.google.cn/guide/topics/ui/settings.html>

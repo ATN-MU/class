@@ -1,6 +1,3 @@
----
-typora-root-url: image
----
 
 ## 隐式Intent使用--打开Android默认浏览器
 
@@ -70,6 +67,6 @@ Google参考文献：https://developer.android.google.cn/guide/components/intent
 
 ## 实验结果截图
 
-![1](/1.png)
+![1](https://github.com/ATN-MU/class/blob/master/ImplicitIntent/image/1.png)
 
-![2](/2.png)
+![2](https://github.com/ATN-MU/class/blob/master/ImplicitIntent/image/2.png)

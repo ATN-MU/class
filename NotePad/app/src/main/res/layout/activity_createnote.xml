@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="标题"
+        android:id="@+id/editTitle"
+        android:background="@drawable/shape"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:hint="内容"
+        android:layout_marginTop="10dp"
+        android:gravity="top"
+        android:id="@+id/editBody"
+        android:background="@drawable/shape"
+        android:scrollHorizontally="true"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="right">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:id="@+id/editCancel"
+            android:background="@drawable/shape"
+            android:src="@mipmap/ic_revert"
+            />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:id="@+id/editSave"
+            android:background="@drawable/shape"
+            android:src="@mipmap/ic_save"/>
+    </LinearLayout>
+</LinearLayout>

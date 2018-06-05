@@ -10,7 +10,7 @@
 
 该实验的结构如下图：
 
-![结构图](E:\Android\AndroidStudioProjects\NotePad\Image\结构图.png)
+![结构图](https://github.com/ATN-MU/class/blob/master/NotePad/Image/结构图.png)
 
 ## **实验截图**
 

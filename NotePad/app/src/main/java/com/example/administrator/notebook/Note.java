@@ -1,6 +1,5 @@
 package com.example.administrator.notebook;
 
-import java.util.Date;
 
 public class Note {
     private int id;
